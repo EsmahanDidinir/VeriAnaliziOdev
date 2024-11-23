@@ -1,3 +1,4 @@
+https://www.kaggle.com/code/esmahandidinir/global-ai-hub-veri-analizi-odevi
 # VeriAnaliziOdev
 # Red Wine Quality Prediction - Veri Analizi ve Görselleştirme
 Bu proje, kırmızı şarapların kimyasal özellikleri ve kalite ile ilgili analizleri içermektedir. Veri setinde, şarapların pH değeri, asidite, şeker oranı gibi kimyasal bileşenlerle birlikte kaliteye dair bilgiler yer almaktadır. Bu README, veri setinin hazırlanmasından, sürekli değişkenlerin analizine kadar yapılan adımları özetlemektedir.
